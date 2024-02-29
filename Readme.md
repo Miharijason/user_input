@@ -10,11 +10,11 @@ This Python program asks the user for their name, age, and location, and then pr
 
 ## Requirements
 
-- Python 3.x
+- Python program
 
 ## Author
 
-[Your Name]
+[Jason Mihari]
 
 ## Contact
 
